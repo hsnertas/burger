@@ -1,0 +1,22 @@
+body {
+  width: 99%;
+  height: 900px;
+  background-color: #FFDE00;
+}
+
+h1 {
+  color: #f30;
+}
+img{
+  width: 200px;
+  height: 250px;
+}
+
+#top-bar {
+  margin-top: 28px;
+}
+
+.burger-row{
+  margin-bottom: 15px;
+}
+

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <!-- Bootstrap for layout -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" />
+  <!-- Style css link -->
+  <link rel="stylesheet" href="./assets/css/burge_style.css" type="text/css" />
+  <!--Title-->
+  <title>Eat-da-burger</title>
+</head>
+
+<body>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 text-center" id="top-bar">
+        <img src="./assets/img/burger.gif" alt="burger" />
+        <h1>Eat-Da-Burger! <i class="fas fa-hamburger"></i></h1>
+      </div>
+    </div>
+  </div>
+  <!--Order-->
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 text-center enter_section">
+        <p>Enter a burger you want to eat & click the "Order" button.</p>
+        <form class="create-form">
+          <div class="form-group">
+            <input class="form-control" type="text" id="new-burger" name="name" placeholder="Enter Burger Name"
+              required />
+          </div>
+          <button type="submit" class="btn btn-success btn-block" id="text-enter-button">
+            Order
+          </button>
+        </form>
+      </div>
+    </div>
+  </div>
+  <!--Eat and Delete a burger-->
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 text-center enter_section">
+        <p>Eat and Delete a burger.</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-6" id="notDevoured">
+
+      </div>
+      <div class="col-md-6" id="devoured">
+
+      </div>
+    </div>
+  </div>
+  <!-- Jquery link -->
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  <!-- Script link -->
+  <script src="/assets/js/burgers.js"></script>
+</body>
+
+</html>

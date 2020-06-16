@@ -1,5 +1,7 @@
-# Node Express Mysql Full Stack
-
+# Node Express Mysql Full Stack Burger App
+   ![GitHub top language](https://img.shields.io/github/languages/top/hsnertas/burger?logo=GitHub&logoColor=blue)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/hsnertas/burger?logo=github&logoColor=green) 
+  ![GitHub repo size](https://img.shields.io/github/repo-size/hsnertas/burger?logo=github&logoColor=blue) 
 ### Overview
 
 In this assignment, you'll create a burger logger with MySQL, Node, Express and a homemade ORM (yum!). Be sure to follow the MVC design pattern; use Node and MySQL to query and route data in your app.
