@@ -16,7 +16,11 @@ img{
   margin-top: 28px;
 }
 
-.burger-row{
+.row{
   margin-bottom: 15px;
 }
 
+.create-form{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
