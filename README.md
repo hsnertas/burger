@@ -7,8 +7,8 @@
  ## Description 
   In this assignment, I created a burger logger with MySQL, Node, Express and a homemade ORM (yum!). 
 
--  [Eat-Da-Burger! - Git Hub]()
--  [Eat-Da-Burger! - Git Hub IO]()
+-  [Eat-Da-Burger! - Git Hub](https://github.com/hsnertas/burger)
+-  [Eat-Da-Burger! - Heoku](https://nameless-falls-74805.herokuapp.com/)
 -  [Eat-Da-Burger! - Demo Video]()
 
   ## Table of Contents 
